@@ -1,0 +1,31 @@
+Model,Variable,Odds Ratio,2.50%,97.50%
+Model 1,(Intercept),0.4963,0.1840,2.8848
+,factor(genero)Masculino,1.4170,1.0187,4.4548
+,factor(educacion)Secundaria,0.6101,0.6672,11.1556
+,factor(educacion)Universitario profesional,1.0047,0.4448,1.8177
+,factor(Agerank)26 - 35 años,0.9791,0.5921,4.1707
+,factor(Agerank)Mas de 35 años,0.6074,0.3290,2.3660
+,soltero,2.4669,0.4433,1.9915
+,finalidadpareja,0.4056,0.1614,0.8079
+,finalidadamigos,0.4536,0.2706,1.6249
+,heterosexual,1.2364,0.3830,2.5155
+Model 2,(Intercept),0.4909,0.1840,2.8848
+,factor(genero)Masculino,0.9463,1.0187,4.4548
+,factor(educacion)Secundaria,0.9412,0.6672,11.1556
+,factor(educacion)Universitario profesional,1.8235,0.4448,1.8177
+,factor(Agerank)26 - 35 años,0.8732,0.5921,4.1707
+,factor(Agerank)Mas de 35 años,4.2987,0.3290,2.3660
+,soltero,1.8659,0.4433,1.9915
+,finalidadamigos,0.3271,0.1614,0.8079
+,finalidad,0.6801,0.2706,1.6249
+,heterosexual,0.9590,0.3830,2.5155
+Model 3,(Intercept),0.7402,0.1840,2.8848
+,factor(genero)Masculino,2.1038,1.0187,4.4548
+,factor(educacion)Secundaria,2.5692,0.6672,11.1556
+,factor(educacion)Universitario profesional,0.8976,0.4448,1.8177
+,factor(Agerank)26 - 35 años,1.5491,0.5921,4.1707
+,factor(Agerank)Mas de 35 años,0.8716,0.3290,2.3660
+,soltero,0.9329,0.4433,1.9915
+,finalidad,0.3665,0.1614,0.8079
+,finalidadpareja,0.6684,0.2706,1.6249
+,heterosexual,0.9675,0.3830,2.5155
